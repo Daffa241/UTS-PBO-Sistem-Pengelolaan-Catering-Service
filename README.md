@@ -1,6 +1,13 @@
 # Sistem Pengelolaan Catering Service
 
-Proyek aplikasi berbasis Java Console yang dibangun menggunakan konsep Pemrograman Berorientasi Objek (PBO) untuk mengelola layanan transaksi catering secara terstruktur.
+Proyek aplikasi berbasis bahasa pemrograman Java yang dibangun menggunakan konsep Pemrograman Berorientasi Objek (PBO) untuk mengelola layanan transaksi catering secara terstruktur.
+
+---
+Nama: Daffa Rizqi Fadhillah
+
+NIM: 2509116068
+
+Kelas: B
 
 ---
 
